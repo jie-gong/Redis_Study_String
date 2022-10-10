@@ -4,7 +4,7 @@ import org.springframework.beans.factory.FactoryBean;
 import org.springframework.stereotype.Component;
 
 /**
- * @author: 公杰
+ * @author:
  * @Project: JavaLaity
  * @Pcakage: com.gong_redis.test.Test01
  * @Date: 2022年10月06日 16:55
@@ -50,18 +50,4 @@ public class Test01 {
     }
 }
 
-/**
- * 同步线程
- */
-@Component
-class SyncThread implements FactoryBean {
-    @Override
-    public Object getObject() throws Exception {
-        return null;
-    }
 
-    @Override
-    public Class<?> getObjectType() {
-        return null;
-    }
-}

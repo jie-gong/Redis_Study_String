@@ -23,7 +23,7 @@ import java.sql.Ref;
 import java.time.Duration;
 
 /**
- * @author: 公杰
+ * @author:
  * @Project: JavaLaity
  * @Pcakage: com.gong_redis.config.CacheConfig
  * @Date: 2022年10月06日 10:06

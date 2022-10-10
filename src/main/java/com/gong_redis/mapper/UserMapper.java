@@ -6,7 +6,7 @@ import org.apache.ibatis.annotations.Mapper;
 import org.springframework.stereotype.Repository;
 
 /**
- * @author: 公杰
+ * @author:
  * @Project: JavaLaity
  * @Pcakage: com.gong_redis.mapper.UserMapper
  * @Date: 2022年10月05日 11:22

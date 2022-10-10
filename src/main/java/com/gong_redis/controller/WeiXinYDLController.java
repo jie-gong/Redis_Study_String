@@ -19,7 +19,7 @@ import java.util.HashMap;
 import java.util.List;
 
 /**
- * @author: 公杰
+ * @author:
  * @Project: JavaLaity
  * @Pcakage: com.gong_redis.controller.WeiXinYYLCOntrlooer
  * @Date: 2022年10月07日 08:27
@@ -29,7 +29,7 @@ import java.util.List;
 //微信阅读量
 @Api(description = "微信阅读量实现")
 @RestController
-public class WeiXinYYLController {
+public class WeiXinYDLController {
     @Resource
     private StringRedisTemplate stringRedisTemplate;
 

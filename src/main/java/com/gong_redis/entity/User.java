@@ -11,7 +11,7 @@ import lombok.Value;
 import java.io.Serializable;
 
 /**
- * @author: 公杰
+ * @author:
  * @Project: JavaLaity
  * @Pcakage: com.gong_redis.entity.User
  * @Date: 2022年10月05日 14:47
